@@ -1,0 +1,16 @@
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series.deps.json
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series.dll
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/ref/Series.dll
+/home/kb37/web_development/csharp/DIO/Series/bin/Debug/net5.0/Series.pdb
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.dll
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/ref/Series.dll
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.pdb
+/home/kb37/web_development/csharp/DIO/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
